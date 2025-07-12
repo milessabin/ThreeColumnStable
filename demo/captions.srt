@@ -1,0 +1,73 @@
+1
+00:00:04,500 --> 00:00:07,000
+First window is centred
+
+2
+00:00:07,250 --> 00:00:08,250
+Next window to right
+
+3
+00:00:08,750 --> 00:00:10,000
+Third pushes first two to left
+
+4
+00:00:10,500 --> 00:00:12,000
+Once all columns filled, open in focus column
+
+5
+00:00:13,000 --> 00:00:16,500
+Move focus column left ...
+
+6
+00:00:17,000 --> 00:00:20,500
+Move focus column right ...
+
+7
+00:00:21,000 --> 00:00:24,500
+Move focus window left ...
+
+8
+00:00:25,000 --> 00:00:28,500
+Move focus window right ...
+
+9
+00:00:29,000 --> 00:00:32,500
+Rotate columns left ...
+
+10
+00:00:33,000 --> 00:00:36,500
+Rotate columns right ...
+
+11
+00:00:38,000 --> 00:00:39,500
+Closing a window doesn't affect other columns
+
+12
+00:00:40,000 --> 00:00:42,000
+Move right column to centre ...
+
+13
+00:00:43,000 --> 00:00:45,000
+... and back
+
+14
+00:00:46,000 --> 00:00:47,000
+Move left column to centre ...
+
+15
+00:00:47,500 --> 00:00:49,500
+... and back
+
+16
+00:00:50,000 --> 00:00:51,000
+Tidy columns
+
+17
+00:00:51,500 --> 00:00:53,000
+Closing a window doesn't affect other columns
+
+18
+00:00:54,000 --> 00:00:55,500
+The last remaing window is centred
+
+

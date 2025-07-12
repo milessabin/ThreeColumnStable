@@ -14,10 +14,10 @@ layout behaves in a "stable" manner, meaning that windows will not be
 automatically moved between or within columns as other windows are added or
 removed.
 
-Windows can be moved between columns using the "MoveWindow" message, and whole
-columns can be moved left or right using the "MoveColumn" message. The
-"RotateColumns" message rotates all three columns left or right. The
-"TidyColumns" message packs the columns to the centre and right, leaving the
+Windows can be moved between columns using the `MoveWindow` message, and whole
+columns can be moved left or right using the `MoveColumn` message. The
+`RotateColumns` message rotates all three columns left or right. The
+`TidyColumns` message packs the columns to the centre and right, leaving the
 left column and possibly the right column empty if there are one or two columns
 currently empty. If closing a window leaves a single window visible then it
 will be moved to the centre column automatically.
